@@ -1,3 +1,1 @@
-## PAKAPAT VONGSATTATIKHUN
-
-## 61070151 Mr.Pakapat Vongsattatikhun
+print("Hello, ITF-Lab 2018!!!")
